@@ -1,11 +1,10 @@
-# IESTP Antenor Orrego Espinoza — aplicación Android
+# Aplicación IESTP Antenor Orrego Espinoza - Versión 2
+Proyecto nativo Android desarrollado con Java y Gradle, basado en una maqueta de aplicación institucional.
 
-Código fuente nativo Java con 22 pantallas (incluido inicio animado), navegación propia y enlaces informativos. No se necesita MIT App Inventor.
+**Contenido:** splash con logo institucional; inicio con fachada; siete programas de estudio con información y banners publicados por el instituto; informes, admisión, requisitos, matrícula, contacto e intranet. La información de los canales y la oferta se complementa con enlaces oficiales.
 
-## Obtener APK
-Entra en **Actions → Generar APK Android**. Cuando el proceso termine con marca verde, abre la ejecución y descarga **IESTP-Antenor-Orrego-APK** desde **Artifacts**. Descomprime y obtendrás `app-debug.apk` para Android 6.0 o posterior.
+**Compilar APK:** abre Actions → Generar APK Android con imágenes. Cuando termine correctamente, descarga el artefacto **IESTP-AOE-APK-Actualizada**, extrae `app-debug.apk` e instálalo en Android.
 
-El APK es de prueba: no está firmado para distribución en Google Play y debe probarse en un dispositivo antes de uso institucional.
+**Recursos:** en la compilación, el archivo `scripts/prepare_assets.py` descarga imágenes del dominio del IESTP Antenor Orrego. Las fotos utilizadas provienen de la web oficial, y las imágenes de carreras son banners oficiales, no fotos de estudiantes. El logo de esta compilación es el escudo publicado en la web antigua del instituto y puede diferir del logo del archivo App Inventor. La foto original entregada en la conversación no está incorporada en la compilación automática por no disponer de una URL de descarga pública; sí permanece en el archivo fuente revisado compartido anteriormente.
 
-## Alcance y límites
-Es una guía informativa; no guarda datos personales ni autentica estudiantes. Revisa la vigencia de la oferta formativa, las fechas y los teléfonos en la web oficial. Este repositorio contiene el código y los textos; por restricciones de transferencia binaria aún **no incluye el logo ni las fotografías originales del prototipo App Inventor**. Su estilo conserva la paleta y navegación institucional, pero no reproduce exactamente todas las imágenes del diseño.
+Este es un prototipo **no oficial** de consulta. No almacena credenciales y abre los servicios externos mediante el navegador. Debe probarse en un teléfono antes de distribuirlo.
