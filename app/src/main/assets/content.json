@@ -1,0 +1,687 @@
+{
+  "INICIO": {
+    "title": "IESTP Antenor Orrego Espinoza",
+    "subtitle": "Formación técnica para tu futuro",
+    "sections": [
+      {
+        "heading": "Bienvenido",
+        "content": "Conoce nuestra institución, explora los programas de estudio y encuentra orientación para postular. Esta guía es informativa."
+      }
+    ],
+    "cards": [
+      {
+        "title": "Nosotros",
+        "detail": "Identidad institucional",
+        "target": "NOSOTROS"
+      },
+      {
+        "title": "Programas de estudio",
+        "detail": "Siete programas técnicos",
+        "target": "CARRERAS"
+      },
+      {
+        "title": "Admisión",
+        "detail": "Requisitos y matrícula",
+        "target": "INFORMES"
+      },
+      {
+        "title": "Servicios académicos",
+        "detail": "Intranet y biblioteca",
+        "target": "SERVICIOS"
+      },
+      {
+        "title": "Novedades",
+        "detail": "Noticias institucionales",
+        "target": "NOVEDADES"
+      },
+      {
+        "title": "Contacto",
+        "detail": "Ubicación y teléfonos",
+        "target": "CONTACTO"
+      }
+    ],
+    "actions": [
+      {
+        "title": "VISITAR EL PORTAL OFICIAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "DIRECTORIO": {
+    "title": "Explora la aplicación",
+    "subtitle": "Accesos a todas las secciones",
+    "sections": [],
+    "cards": [
+      {
+        "title": "Nosotros",
+        "detail": "Conoce el instituto",
+        "target": "NOSOTROS"
+      },
+      {
+        "title": "Carreras",
+        "detail": "Siete especialidades",
+        "target": "CARRERAS"
+      },
+      {
+        "title": "Admisión e informes",
+        "detail": "Orientación para postulantes",
+        "target": "INFORMES"
+      },
+      {
+        "title": "Servicios",
+        "detail": "Enlaces oficiales",
+        "target": "SERVICIOS"
+      },
+      {
+        "title": "Novedades",
+        "detail": "Avisos",
+        "target": "NOVEDADES"
+      },
+      {
+        "title": "Contacto",
+        "detail": "Atención y ubicación",
+        "target": "CONTACTO"
+      }
+    ],
+    "actions": []
+  },
+  "NOSOTROS": {
+    "title": "Sobre el instituto",
+    "subtitle": "Nuestra identidad educativa",
+    "sections": [
+      {
+        "heading": "Nuestra institución",
+        "content": "El Instituto de Educación Superior Tecnológico Público Antenor Orrego Espinoza está ubicado en Chorrillos, Lima. Su formación técnica está orientada al desarrollo de competencias profesionales."
+      },
+      {
+        "heading": "Misión: síntesis orientativa",
+        "content": "Formar profesionales técnicos con capacidad de innovación, compromiso, ética y espíritu emprendedor. Consulte la formulación oficial vigente."
+      },
+      {
+        "heading": "Visión: síntesis orientativa",
+        "content": "Desarrollar una educación tecnológica pertinente y de calidad, vinculada con necesidades sociales y productivas."
+      },
+      {
+        "heading": "Nuestra propuesta",
+        "content": "Aprendizaje práctico, habilidades técnicas, innovación, trabajo en equipo y preparación para la vida laboral."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "PROGRAMAS DE ESTUDIO",
+        "target": "CARRERAS"
+      },
+      {
+        "title": "WEB OFICIAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "CARRERAS": {
+    "title": "Programas de estudio",
+    "subtitle": "Siete alternativas de formación técnica",
+    "sections": [],
+    "cards": [
+      {
+        "title": "Arquitectura de Plataformas y Servicios de TI",
+        "detail": "Computación, software e infraestructura",
+        "target": "COMPUTACION"
+      },
+      {
+        "title": "Gestión Administrativa",
+        "detail": "Gestión empresarial y organización",
+        "target": "GESTION"
+      },
+      {
+        "title": "Contabilidad",
+        "detail": "Gestión contable y financiera",
+        "target": "CONTABILIDAD"
+      },
+      {
+        "title": "Enfermería Técnica",
+        "detail": "Atención y cuidado de la salud",
+        "target": "ENFERMERIA"
+      },
+      {
+        "title": "Electrónica Industrial",
+        "detail": "Tecnología, sistemas electrónicos y control",
+        "target": "ELECTRONICA"
+      },
+      {
+        "title": "Farmacia Técnica",
+        "detail": "Gestión de servicios farmacéuticos",
+        "target": "FARMACIA"
+      },
+      {
+        "title": "Mecatrónica Automotriz",
+        "detail": "Diagnóstico y mantenimiento de vehículos",
+        "target": "AUTOMOTRIZ"
+      }
+    ],
+    "actions": [
+      {
+        "title": "VER ADMISIÓN",
+        "target": "ADMISION"
+      }
+    ]
+  },
+  "COMPUTACION": {
+    "title": "Arquitectura de Plataformas y Servicios de TI",
+    "subtitle": "Computación, software e infraestructura",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Formación en infraestructura tecnológica, desarrollo de soluciones digitales, redes y servicios de TI."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Programación, base de datos, diseño de aplicaciones, soporte, redes, seguridad y documentación de sistemas."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Soporte informático, desarrollo de software, operación tecnológica e infraestructura de redes."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "GESTION": {
+    "title": "Gestión Administrativa",
+    "subtitle": "Gestión empresarial y organización",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Apoyo en procesos administrativos, planificación y organización de empresas e instituciones."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Gestión documental, atención al cliente, procesos administrativos, ofimática y operaciones."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Áreas administrativas, logística, soporte de recursos humanos y servicios empresariales."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "CONTABILIDAD": {
+    "title": "Contabilidad",
+    "subtitle": "Gestión contable y financiera",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Registro, análisis y apoyo a la gestión de información financiera y contable."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Operaciones contables, conciliaciones, registros, documentación tributaria y herramientas financieras."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Estudios contables, áreas de tesorería, finanzas y administración."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "ENFERMERIA": {
+    "title": "Enfermería Técnica",
+    "subtitle": "Atención y cuidado de la salud",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Participación técnica en el cuidado y acompañamiento de pacientes dentro de sus competencias."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Bioseguridad, prevención, signos vitales, cuidado básico y asistencia en servicios de salud."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Centros de salud y programas comunitarios según las habilitaciones y normativa aplicable."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "ELECTRONICA": {
+    "title": "Electrónica Industrial",
+    "subtitle": "Tecnología, sistemas electrónicos y control",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Instalación y mantenimiento de sistemas y equipos electrónicos industriales."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Circuitos, instrumentación, control, seguridad eléctrica y automatización."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Mantenimiento industrial, servicio técnico e instrumentación."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "FARMACIA": {
+    "title": "Farmacia Técnica",
+    "subtitle": "Gestión de servicios farmacéuticos",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Participación técnica en gestión, almacenamiento y dispensación conforme a la regulación."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Inventarios, conservación de productos, buenas prácticas y orientación general al usuario."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Farmacias, boticas y servicios relacionados, bajo las supervisiones y normas pertinentes."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "AUTOMOTRIZ": {
+    "title": "Mecatrónica Automotriz",
+    "subtitle": "Diagnóstico y mantenimiento de vehículos",
+    "sections": [
+      {
+        "heading": "Perfil",
+        "content": "Mantenimiento preventivo y diagnóstico de sistemas automotrices."
+      },
+      {
+        "heading": "Competencias",
+        "content": "Mecánica, sistemas eléctricos, electrónica vehicular, herramientas de diagnóstico y seguridad."
+      },
+      {
+        "heading": "Campo laboral",
+        "content": "Talleres, servicios técnicos, mantenimiento de flotas y centros automotrices."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REQUISITOS DE ADMISIÓN",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "VISITAR PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "INFORMES": {
+    "title": "Admisión e informes",
+    "subtitle": "Orientación para postulantes",
+    "sections": [],
+    "cards": [
+      {
+        "title": "Proceso de admisión",
+        "detail": "Etapas de postulación",
+        "target": "ADMISION"
+      },
+      {
+        "title": "Requisitos",
+        "detail": "Documentación requerida",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "Cronograma",
+        "detail": "Fechas y plazos",
+        "target": "CRONOGRAMA"
+      },
+      {
+        "title": "Matrícula",
+        "detail": "Orientación de registro",
+        "target": "MATRICULA"
+      },
+      {
+        "title": "Beneficios",
+        "detail": "Becas y apoyo",
+        "target": "BENEFICIOS"
+      },
+      {
+        "title": "Preguntas frecuentes",
+        "detail": "Consultas comunes",
+        "target": "PREGUNTAS"
+      }
+    ],
+    "actions": []
+  },
+  "ADMISION": {
+    "title": "Proceso de admisión",
+    "subtitle": "Etapas para postular",
+    "sections": [
+      {
+        "heading": "Etapas generales",
+        "content": "1. Revisar la convocatoria y las vacantes.\n2. Verificar los requisitos del proceso.\n3. Inscribirse por el canal oficial.\n4. Participar en la evaluación cuando corresponda.\n5. Verificar resultados y matrícula."
+      },
+      {
+        "heading": "Importante",
+        "content": "Las modalidades, montos, vacantes y fechas dependen de las bases oficiales vigentes."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "REGISTRO DE ADMISIÓN",
+        "href": "https://iestpantenororrego.jedu.pe/registro-admision"
+      },
+      {
+        "title": "REQUISITOS",
+        "target": "REQUISITOS"
+      },
+      {
+        "title": "CRONOGRAMA",
+        "target": "CRONOGRAMA"
+      }
+    ]
+  },
+  "REQUISITOS": {
+    "title": "Requisitos",
+    "subtitle": "Documentos y condiciones",
+    "sections": [
+      {
+        "heading": "Documentos referenciales",
+        "content": "Documento de identidad, acreditación de estudios y otros documentos que solicite la convocatoria oficial. Esta no es una lista definitiva."
+      },
+      {
+        "heading": "Recomendaciones",
+        "content": "Verifica los formatos, plazos, modalidad de ingreso y canales oficiales de inscripción y pago."
+      },
+      {
+        "heading": "Estudios previos",
+        "content": "Pregunta por traslados, reconocimiento o convalidación cuando estén contemplados en las bases."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "INSCRIPCIÓN OFICIAL",
+        "href": "https://iestpantenororrego.jedu.pe/registro-admision"
+      },
+      {
+        "title": "CONTACTO",
+        "target": "CONTACTO"
+      }
+    ]
+  },
+  "CRONOGRAMA": {
+    "title": "Cronograma",
+    "subtitle": "Consulta las fechas oficiales vigentes",
+    "sections": [
+      {
+        "heading": "Fechas oficiales",
+        "content": "Los procesos académicos tienen calendarios variables. Verifica publicación de convocatoria, inscripción, evaluación, resultados e inicio de matrícula en el portal institucional."
+      },
+      {
+        "heading": "Verificación",
+        "content": "Evita utilizar imágenes o mensajes antiguos como fuentes de fechas vigentes."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "PORTAL OFICIAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      },
+      {
+        "title": "NOVEDADES",
+        "target": "NOVEDADES"
+      }
+    ]
+  },
+  "MATRICULA": {
+    "title": "Matrícula",
+    "subtitle": "Orientaciones para estudiantes",
+    "sections": [
+      {
+        "heading": "Matrícula de ingresantes",
+        "content": "Después de obtener una vacante, revisa los documentos, el plazo y el procedimiento oficial para matricularte."
+      },
+      {
+        "heading": "Estudiantes regulares",
+        "content": "Consulta la programación, tus obligaciones académicas y trámites desde los servicios institucionales."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "ABRIR INTRANET",
+        "href": "https://iestpantenororrego.jedu.pe/alumno/entrar"
+      },
+      {
+        "title": "CONTACTO",
+        "target": "CONTACTO"
+      }
+    ]
+  },
+  "BENEFICIOS": {
+    "title": "Becas y beneficios",
+    "subtitle": "Apoyos y oportunidades",
+    "sections": [
+      {
+        "heading": "Servicios de apoyo",
+        "content": "Pregunta por actividades de orientación y servicios complementarios disponibles para los estudiantes."
+      },
+      {
+        "heading": "Becas y exoneraciones",
+        "content": "La disponibilidad de apoyo económico, becas o exoneraciones depende de cada convocatoria y de la normativa aplicable."
+      },
+      {
+        "heading": "Oportunidades",
+        "content": "Participación en proyectos, eventos técnicos e iniciativas académicas según la programación institucional."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "CONTACTO",
+        "target": "CONTACTO"
+      },
+      {
+        "title": "WEB OFICIAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  },
+  "PREGUNTAS": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Resuelve tus dudas",
+    "sections": [
+      {
+        "heading": "¿Qué carreras ofrecen?",
+        "content": "Puedes consultar siete programas de estudio desde el menú Carreras. Confirma la oferta y las vacantes vigentes."
+      },
+      {
+        "heading": "¿Cómo puedo postular?",
+        "content": "Consulta las bases, reúne documentos y utiliza el registro oficial."
+      },
+      {
+        "heading": "¿Cuáles son las fechas?",
+        "content": "Revisa cronograma y novedades oficiales; las fechas cambian por periodo."
+      },
+      {
+        "heading": "¿Dónde se ubica el instituto?",
+        "content": "En Chorrillos, Lima. Puedes abrir su ubicación desde Contacto."
+      },
+      {
+        "heading": "¿Puedo matricularme en esta app?",
+        "content": "No. La guía orienta y enlaza los servicios oficiales; no gestiona matrículas ni contraseñas."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "VER ADMISIÓN",
+        "target": "ADMISION"
+      },
+      {
+        "title": "CONTACTO",
+        "target": "CONTACTO"
+      }
+    ]
+  },
+  "CONTACTO": {
+    "title": "Contacto",
+    "subtitle": "Ubicación y canales de atención",
+    "sections": [
+      {
+        "heading": "Ubicación",
+        "content": "Chorrillos, Lima, Perú. Confirma dirección exacta y ruta en mapas."
+      },
+      {
+        "heading": "Teléfono referencial",
+        "content": "+51 1 467 0211. Verifica su vigencia directamente con la institución."
+      },
+      {
+        "heading": "Medios oficiales",
+        "content": "Utiliza el portal institucional y sus canales de comunicación anunciados."
+      },
+      {
+        "heading": "Horario",
+        "content": "Pregunta el horario vigente de atención antes de acudir."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "ABRIR MAPA",
+        "href": "https://www.google.com/maps/search/?api=1&query=IESTP+Antenor+Orrego+Espinoza+Chorrillos"
+      },
+      {
+        "title": "LLAMAR",
+        "href": "tel:+5114670211"
+      },
+      {
+        "title": "SITIO OFICIAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      },
+      {
+        "title": "FACEBOOK OFICIAL",
+        "href": "https://www.facebook.com/iestpantenororrego/"
+      }
+    ]
+  },
+  "SERVICIOS": {
+    "title": "Servicios académicos",
+    "subtitle": "Acceso a recursos oficiales",
+    "sections": [
+      {
+        "heading": "Intranet",
+        "content": "Accede desde el navegador al sistema para estudiantes. Esta aplicación no solicita credenciales."
+      },
+      {
+        "heading": "Biblioteca digital",
+        "content": "Consulta los recursos digitales disponibles."
+      },
+      {
+        "heading": "Trámites académicos",
+        "content": "Verifica procedimientos con las oficinas institucionales."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "ABRIR INTRANET",
+        "href": "https://iestpantenororrego.jedu.pe/alumno/entrar"
+      },
+      {
+        "title": "BIBLIOTECA DIGITAL",
+        "href": "https://iestpantenororrego.microsite-ebooks724.com/"
+      },
+      {
+        "title": "PÁGINA WEB",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      },
+      {
+        "title": "CONTACTO",
+        "target": "CONTACTO"
+      }
+    ]
+  },
+  "NOVEDADES": {
+    "title": "Avisos y novedades",
+    "subtitle": "Información publicada por el instituto",
+    "sections": [
+      {
+        "heading": "Noticias institucionales",
+        "content": "Consulta las publicaciones, actividades y comunicados desde las cuentas oficiales."
+      },
+      {
+        "heading": "Admisión y matrícula",
+        "content": "Los avisos oficiales prevalecen sobre la información referencial de esta guía."
+      }
+    ],
+    "cards": [],
+    "actions": [
+      {
+        "title": "FACEBOOK OFICIAL",
+        "href": "https://www.facebook.com/iestpantenororrego/"
+      },
+      {
+        "title": "PORTAL INSTITUCIONAL",
+        "href": "https://iestpantenororrego.edu.pe/website/"
+      }
+    ]
+  }
+}

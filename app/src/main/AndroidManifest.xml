@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"><application android:allowBackup="false" android:label="Antenor Orrego · Guía" android:icon="@android:drawable/ic_menu_info_details" android:theme="@style/AppTheme" android:supportsRtl="true">
+<activity android:name=".SplashActivity" android:exported="true"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity>
+<activity android:name=".InicioActivity" android:exported="false" />
+<activity android:name=".DirectorioActivity" android:exported="false" />
+<activity android:name=".NosotrosActivity" android:exported="false" />
+<activity android:name=".CarrerasActivity" android:exported="false" />
+<activity android:name=".ComputacionActivity" android:exported="false" />
+<activity android:name=".GestionActivity" android:exported="false" />
+<activity android:name=".ContabilidadActivity" android:exported="false" />
+<activity android:name=".EnfermeriaActivity" android:exported="false" />
+<activity android:name=".ElectronicaActivity" android:exported="false" />
+<activity android:name=".FarmaciaActivity" android:exported="false" />
+<activity android:name=".AutomotrizActivity" android:exported="false" />
+<activity android:name=".InformesActivity" android:exported="false" />
+<activity android:name=".AdmisionActivity" android:exported="false" />
+<activity android:name=".RequisitosActivity" android:exported="false" />
+<activity android:name=".CronogramaActivity" android:exported="false" />
+<activity android:name=".MatriculaActivity" android:exported="false" />
+<activity android:name=".BeneficiosActivity" android:exported="false" />
+<activity android:name=".PreguntasActivity" android:exported="false" />
+<activity android:name=".ContactoActivity" android:exported="false" />
+<activity android:name=".ServiciosActivity" android:exported="false" />
+<activity android:name=".NovedadesActivity" android:exported="false" />
+</application></manifest>
